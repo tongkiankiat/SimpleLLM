@@ -1,2 +1,2 @@
 # SimpleLLM
-A SimpleLLM trained on a single text dataset
+A SimpleLLM created using PyTorch trained on a single text dataset
